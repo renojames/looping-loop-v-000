@@ -4,4 +4,4 @@ def wingardium_leviosa
   end
 end
 
-#call your method here
+wingardium_leviosa
